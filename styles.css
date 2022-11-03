@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+}
+.div1{
+    width: 1000px;
+    height: 1000px;
+    background-image: url(./pexels-photo-1037995.webp);
+    background-position: center;
+    background-size: cover;
+}
+.div2{
+    width: 1000px;
+    height: 1000px;
+    background-image:url(./istockphoto-1382510054-612x612.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
